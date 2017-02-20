@@ -1,0 +1,20 @@
+{
+  "name": "makehtml",
+  "version": "0.0.1",
+  "description": "Use sass-core or bootstrap-sass build HTML Page.",
+  "main": "index.js",
+  "author": "happyqian",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "bootstrap-sass": "^3.3.7",
+    "gulp-connect": "^5.0.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-sass": "^3.1.0",
+    "postcss-cssnext": "^2.9.0",
+    "sass-core": "^1.0.0"
+  }
+}
